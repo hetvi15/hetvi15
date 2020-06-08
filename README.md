@@ -1,2 +1,2 @@
 # hetvi15
-To practice web design foe everyone
+To practice web design for everyone
